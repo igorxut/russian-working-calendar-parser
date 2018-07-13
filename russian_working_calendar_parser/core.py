@@ -162,7 +162,7 @@ class RussianWorkingCalendarParser(object):
         :param year: год
         :type year: Optional[int]
 
-        :return: словарь с данными произвеодственного календаря
+        :return: словарь с данными производственного календаря
         :rtype: Dict
         """
 
